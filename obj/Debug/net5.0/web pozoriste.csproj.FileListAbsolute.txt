@@ -1,0 +1,63 @@
+C:\web pozoriste\bin\Debug\net5.0\appsettings.Development.json
+C:\web pozoriste\bin\Debug\net5.0\appsettings.json
+C:\web pozoriste\bin\Debug\net5.0\web pozoriste.exe
+C:\web pozoriste\bin\Debug\net5.0\web pozoriste.deps.json
+C:\web pozoriste\bin\Debug\net5.0\web pozoriste.runtimeconfig.json
+C:\web pozoriste\bin\Debug\net5.0\web pozoriste.runtimeconfig.dev.json
+C:\web pozoriste\bin\Debug\net5.0\web pozoriste.dll
+C:\web pozoriste\bin\Debug\net5.0\ref\web pozoriste.dll
+C:\web pozoriste\bin\Debug\net5.0\web pozoriste.pdb
+C:\web pozoriste\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\web pozoriste\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\web pozoriste\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\web pozoriste\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\web pozoriste\obj\Debug\net5.0\web pozoriste.csproj.AssemblyReference.cache
+C:\web pozoriste\obj\Debug\net5.0\web pozoriste.GeneratedMSBuildEditorConfig.editorconfig
+C:\web pozoriste\obj\Debug\net5.0\web pozoriste.AssemblyInfoInputs.cache
+C:\web pozoriste\obj\Debug\net5.0\web pozoriste.AssemblyInfo.cs
+C:\web pozoriste\obj\Debug\net5.0\web pozoriste.csproj.CoreCompileInputs.cache
+C:\web pozoriste\obj\Debug\net5.0\web pozoriste.MvcApplicationPartsAssemblyInfo.cs
+C:\web pozoriste\obj\Debug\net5.0\web pozoriste.MvcApplicationPartsAssemblyInfo.cache
+C:\web pozoriste\obj\Debug\net5.0\staticwebassets\web pozoriste.StaticWebAssets.Manifest.cache
+C:\web pozoriste\obj\Debug\net5.0\staticwebassets\web pozoriste.StaticWebAssets.xml
+C:\web pozoriste\obj\Debug\net5.0\scopedcss\bundle\web pozoriste.styles.css
+C:\web pozoriste\obj\Debug\net5.0\web pozoriste.RazorTargetAssemblyInfo.cache
+C:\web pozoriste\obj\Debug\net5.0\web pozoriste.csproj.CopyComplete
+C:\web pozoriste\obj\Debug\net5.0\web pozoriste.dll
+C:\web pozoriste\obj\Debug\net5.0\ref\web pozoriste.dll
+C:\web pozoriste\obj\Debug\net5.0\web pozoriste.pdb
+C:\web pozoriste\obj\Debug\net5.0\web pozoriste.genruntimeconfig.cache
+C:\web pozoriste\bin\Debug\net5.0\Castle.Core.dll
+C:\web pozoriste\bin\Debug\net5.0\Humanizer.dll
+C:\web pozoriste\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\web pozoriste\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\web pozoriste\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\web pozoriste\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\web pozoriste\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\web pozoriste\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\web pozoriste\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\web pozoriste\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\web pozoriste\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\web pozoriste\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\web pozoriste\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\web pozoriste\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\web pozoriste\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\web pozoriste\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\web pozoriste\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\web pozoriste\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\web pozoriste\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\web pozoriste\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\web pozoriste\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\web pozoriste\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\web pozoriste\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\web pozoriste\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\web pozoriste\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\web pozoriste\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\web pozoriste\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\web pozoriste\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\web pozoriste\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\web pozoriste\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\web pozoriste\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\web pozoriste\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\web pozoriste\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\web pozoriste\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

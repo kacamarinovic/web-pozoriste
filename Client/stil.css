@@ -1,0 +1,155 @@
+.KontForma{
+    background-color:darkgoldenrod;
+  text-align: center;
+   font-size: x-large;
+    margin:auto;
+
+   width: 20%;
+    border: 3px solid maroon;
+    line-height: 1;
+    width:300px; 
+    max-width:500px;
+}
+.velikaForma{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  text-align: center;
+  
+  
+}
+.pomocnaForma{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.PocetniKontejnerPozoriste{
+  display:flex;
+}
+.PredstaveForma{
+  width:fit-content;
+}
+
+.DugmeRepertoar{
+  margin-top: 100px;
+}
+
+.formaIzvodjenje{
+  background-color: burlywood;
+  height: fit-content;
+}
+
+
+
+
+select{
+    background-color: burlywood;
+    font-size: large;
+  
+    
+}
+td,th{
+  background-color: burlywood;
+  width:fit-content;
+  border: solid black;
+  font-size: large;
+}
+.PredstaveForma{
+  margin-top: 50px;
+  margin-left: 30px;
+  max-width: 1250px;
+ /* background-color: burlywood;*/
+  height:min-content;
+}
+
+.Predstave{
+  display: flex;
+  flex-wrap: wrap;
+
+}
+.naslovPredstave{
+  font-size: x-large;
+  font-style: italic;
+  color:goldenrod;
+}
+
+table{
+  border-collapse: collapse;
+}
+
+.divPredstava{
+  display:flex;
+  flex-direction: column;
+  background-color: brown;
+  border: solid goldenrod;
+  margin-top: 10px;
+  font-size: large;
+  width:300px;
+
+}
+.divUloge{
+  background-color: bisque;
+}
+body{
+    background: url("zavesa.jpg") no-repeat center fixed; 
+    background-size: cover;
+    min-width: 400px;
+   
+  }
+
+.dugmeOsnovno, .DugmeRepertoar, .Dugme{
+    background-color:bisque;
+    /*border-color: chocolate;*/
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    
+}
+
+.dugmeUloge{
+  background-color: bisque;
+  border: solid black;
+  
+}
+
+.RepertoarForma{
+  width:500px;
+  margin-top: 50px;
+  margin-left: 30px;
+ /* background-color:burlywood;*/
+  max-width:500px;
+  height:fit-content;
+}
+
+.IzvodjenjeForma{
+
+  margin: 50px;
+  margin-top: 100px;
+  font-size: x-large;
+  background-color: brown;
+  height:fit-content;
+  text-align: left;
+  border: 3px solid goldenrod;
+ 
+
+}
+.dugmeScene,.dugmeObrisi, .dugmeIzmeni{
+  background-color: burlywood;
+}
+
+h3{
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 5px;
+  color:darkgoldenrod;
+
+}
+.minikont{
+  margin:10px;
+}
+.PocetniKontejnerPozoriste{
+  display:flex;
+  flex-direction: row;
+}
+
+
